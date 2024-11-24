@@ -90,7 +90,7 @@ nav ul li a.active {
 #bckimage {
     background-image: url("../nh2.png");
     width: 100%;
-    height: 160vh;
+    height: 140vh;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
